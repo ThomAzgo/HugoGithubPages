@@ -1,5 +1,5 @@
 ---
-title: "À propos de moi"
+title: "Page perso"
 date: "2023-11-30"
 author: "Thomas Buisson"
 tags: [FirstPost]
@@ -10,7 +10,7 @@ Voilà un post pour brievement me présenter.
 
 ### Qui suis-je ?
 
-![image de moi](/HugoGithubPages/static/img/photo-thomas.jpg)
+![photo](/img/photo-thomas.jpg)
 Moi, c'est Thomas Buisson. J'ai 22 ans et j'ai intégré cette année le master Techlead et CTO d'HETIC.
 
 ### Mon parcours

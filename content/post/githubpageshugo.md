@@ -1,5 +1,5 @@
 ---
-title: "Github Pages et Hugo"
+title: "Github Pages & Hugo"
 date: "2023-11-30"
 author: "Thomas Buisson"
 tags: [Learn]
