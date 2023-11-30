@@ -1,6 +1,3 @@
-baseURL = 'https://thomazgo.github.io/HugoGithubPages/'
 languageCode = 'fr'
 title = "Blog de Thomas Buisson"
 theme = 'beautifulhugo'
-
-
